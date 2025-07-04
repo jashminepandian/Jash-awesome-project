@@ -1,0 +1,57 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+    <meta name="description" content="Rank higher. Get discovered.
+SEO that brings more travelers to your travel agency." />
+    </head>
+    <body>
+     <h1>Explore Switzerland</h1>
+     <p>✈️ Ready for something different?
+Discover our newly launched Winter Northern Lights tour in Switzerland ❄️🌌 – perfect for thrill-seekers and nature lovers! Limited spots available!
+</p>
+      <h2>Packages</h2>
+      <p>
+We have many Switzerland tour packages.  
+Enjoy mountains, lakes, and cities.  
+Choose from family trips, honeymoons, or adventures.  
+There’s something for everyone!
+    </p>
+    <ul>
+      <li>🏔️ 
+         <a target="_blank" href="https://www.freecodecamp.org/learn">Group Travels</a></li>
+              
+      <li>🚞 
+      <a target="_blank" href="https://www.freecodecamp.org/learn">Private Tours</a></li>
+          </ul>
+       <h2>Top Itineraries</h2>
+        <figure>
+          <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://media.istockphoto.com/id/1815540289/photo/aerial-view-of-train-passing-through-famous-mountain-in-filisur-switzerland-landwasser.webp?s=1024x1024&w=is&k=20&c=6gEpTh4PA2wNwK9gyCBUGrR-KluAqcK2BRxUO1v5Mhc="alt="Switzerland tour photo1"" width="200"></a>
+          <figcaption>Explore the stunning<em>Swiss Alps and enjoy</em> breathtaking mountain views.</figcaption>
+        
+        
+      </figure>
+       <figure>
+         <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://media.istockphoto.com/id/615097692/photo/lucerne-city-in-switzerland.webp?s=1024x1024&w=is&k=20&c=O7wNEu1w8ve2BIZ5p2KUGJrGempwwuZFxwoM9A-zDGw="alt="Switzerland tour photo2" " width="200"></a>
+         <figcaption>Discover charming towns<em>like Lucerne and Interlaken</em> with rich culture and history.</figcaption>
+        
+         
+      </figure>
+       <figure>
+         <a target="_blank" href="https://www.freecodecamp.org/learn"><img src="https://media.istockphoto.com/id/141210872/photo/bundeshaus-facade-with-swiss-flag-in-bern.webp?s=1024x1024&w=is&k=20&c=FJUrOnbe5TkWuIthKwMyJ_i1MEV8BmKGUkq4bTkg2uo="alt="Switzerland tour photo3" " width="200"></a>
+         <figcaption>Experience scenic train   rides,<em>serene lakes, </em> and delicious Swiss chocolates.</figcaption>
+         
+         
+      </figure>
+        
+     </body>
+</html>
+
+
+
+
+** end of index.html **
+
