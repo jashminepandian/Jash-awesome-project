@@ -1,0 +1,61 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+  <main>
+    <h1>Brussel sprouts</h1>
+    <p>Brussels sprouts are small, green, cabbage-like vegetables that belong to the Brassica family, closely related to kale, broccoli, and cabbage. They are named after Brussels, Belgium, where they were first widely cultivated in the 16th century. Brussels sprouts are known for their mild, nutty, and slightly earthy flavor, and are packed with nutrients, including vitamins, minerals, and antioxidants. 
+Here's some more information about Brussels sprouts:
+Appearance:
+Brussels sprouts are small, round, green vegetables that resemble miniature cabbages. 
+Flavor:
+They have a mild, nutty, and slightly earthy flavor, which can become sweeter when harvested after being frosted. 
+Nutritional Value:
+Brussels sprouts are a good source of fiber, vitamins (K, B, and C), minerals (manganese, folate, and copper), and antioxidants. 
+Culinary Uses:
+They can be eaten raw, but are most often cooked by steaming, roasting, sautéing, or stir-frying. 
+Health Benefits:
+Brussels sprouts are associated with several health benefits, including potential cancer prevention, heart health support, and improved gut health. 
+Cultivation:
+They are a cool-weather crop and are typically harvested from autumn to late winter.</P>
+    <section>
+        <h2>Growing Brussel sprouts</h2>
+            <p>Brussels sprouts thrive in cool, humid climates and well-drained soil with a pH between 6.0 and 6.8. They are best grown in full sun during cooler periods or in partial shade during warmer months. </p>
+            <iframe
+  src="https://www.youtube.com/embed/TioJd76SIJg"
+  title="Growing big brussel sprouts"
+  width="400"
+  height="200"
+  allowfullscreen
+></iframe>
+
+    </section>
+    <section><h2>Brussel Sprout Cultivation Technique</h2>
+            <p>Sow seeds 4-5 weeks before transplanting, either directly into the garden or in seed flats, and aim for 1-2 foot spacing between plants. Ensure the soil is fertile and amend with well-rotted manure or compost, and mulch around the base of the plants to retain moisture. </p>
+            <iframe
+  src="https://www.youtube.com/embed/doRlrMZ7ip4"
+  title="How Million Tons of Tiny Cabbage Farming and Harvesting - Brussel Sprout Cultivation Technique"
+  width="400"
+  height="200"
+  allowfullscreen
+></iframe></section>
+    <section><h2>Brussel sprouts in small containers</h2>
+            <p>Hardy, robust and slow growing, Brussels sprouts are a classic winter vegetable, providing fresh, nutritious harvests in even the coldest weather. With modern varieties offering much improved flavour, this versatile veg has seen a revival in popularity and is now used in a wide range of dishes, not just the traditional festive feast.</p>
+            <iframe
+  src="https://www.youtube.com/embed/ZUBDXF4zBss"
+  title="Growing Brussel Sprouts in Small Containers [Planting to Harvest]"
+  width="400"
+  height="200"
+  allowfullscreen
+></iframe>
+</section>
+    </main>
+</body>
+</html>
