@@ -1,0 +1,71 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+    <header>
+      <h1>Event Hub</h1>
+        <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+          <li><a href="#past-events">Past Events</a></li>
+        </ul>
+        </nav>
+    </header>
+    <body>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Upcoming Events</h3>
+                <p>"Join us for a morning of valuable connections and insightful discussions at our Corporate Networking Breakfast. Held on [Date] at [Venue], this event offers a fantastic opportunity to meet and mingle with professionals in the [Industry] field. Enjoy a delicious breakfast while expanding your network and exploring potential collaborations. Secure your spot now!"</p>
+            </article>
+            <article>
+                <h3>Upcoming Events</h3>
+                <p>"Discover everything you need to plan your dream wedding at the Wedding Expo Showcase. Explore a wide array of vendors, from photographers and florists to caterers and venues. Join us on [Date] at [Venue] for a day of inspiration, expert advice, and exclusive deals. Find the perfect elements to make your special day unforgettable!" according to Cvent 
+</p>
+                The graduation will be on <time datetime="2024-06-15T15:00">June 15</time>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Upcoming Events</h3>
+                <p>Event Name: Sunset Yoga in the Park
+Date: July 20, 2025
+Time: 6:00 PM – 7:30 PM
+Location: Central City Park, Lawn Area
+
+Description:
+Join us for a relaxing evening of guided yoga as the sun sets over the city. This all-levels session is perfect for beginners and experienced yogis alike. Bring your mat, water bottle, and a peaceful mindset. Open to all ages and free to attend!</p>
+               
+        <img
+          src="https://media.istockphoto.com/id/1051195762/photo/diploma-university-students-friendship-mantles.jpg?s=612x612&w=0&k=20&c=r_A1kowwV7PWeVG8_NiotzrnPQmOMwezUf7YYuy-aAo="
+          alt="Graduation day"
+        />
+                The graduation will be on <time datetime="2024-06-15T15:00">June 15</time>
+            </article>
+            <article>
+            <h3>Past Events</h3>
+            <p>Event Name: Sunset Yoga in the Park
+Date: July 20, 2025
+Time: 6:00 PM – 7:30 PM
+Location: Central City Park, Lawn Area
+
+Description:
+Join us for a relaxing evening of guided yoga as the sun sets over the city. This all-levels session is perfect for beginners and experienced yogis alike. Bring your mat, water bottle, and a peaceful mindset. Open to all ages and free to attend!</p>
+            <img
+          src="https://media.istockphoto.com/id/1168012558/vector/graduation-concept-vector-illustration.jpg?s=612x612&w=0&k=20&c=MqOy8uDOwZx4kP2ZLD4mof8WwJONdpGpGppg24x_iZc="
+          alt="Happy Graduation day"
+        />
+            </article>
+        </section>
+</body>
+</html>
+
+** end of index.html **
+
